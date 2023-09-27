@@ -1,0 +1,57 @@
+[
+    {
+      "id":1,
+      "marca": "Camiseta oficial V1",
+      "color": "Blanca",
+      "talle": 20,
+      "precio": 25000,
+      "imagen": "./images/9z camiseta blanca.png",
+      "cantidad": 1
+    },
+    {
+      "id":2,
+      "marca": "Camiseta oficial V2",
+      "color": "Blanca",
+      "talle": 20,
+      "precio": 25000,
+      "imagen": "./images/9z camiseta blanco.png",
+      "cantidad": 1
+    },
+    {
+      "id":3,
+      "marca": "Camiseta oficial V3",
+      "color": "Dorado",
+      "talle": 20,
+      "precio": 30000,
+      "imagen": "./images/9z camiseta dorado.png",
+      "cantidad": 1
+    },
+    {
+      "id":4,
+      "marca": "Gorra 9z",
+      "color": "Rosa",
+      "talle": 10,
+      "precio": 7700,
+      "imagen": "./images/9z gorra.png",
+      "cantidad": 1
+    },
+    {
+        "id":5,
+        "marca": "Buff 9z",
+        "color": "violeta",
+        "talle": 7,
+        "precio": 3700,
+        "imagen": "./images/9z buff.png",
+        "cantidad": 1
+      },
+      {
+        "id":6,
+        "marca": "Almohada 9z",
+        "color": "violeta",
+        "talle": 8,
+        "precio": 10600,
+        "imagen": "./images/9z almohada.png",
+        "cantidad": 1
+      }
+]
+
